@@ -13,6 +13,7 @@
            valign="middle" 
            src="https://img-c.udemycdn.com/user/200_H/84747742_4c95.jpg" 
            target="_blank" 
+           style = "border-radius:10px";
       />
     </a>  
   </p>
