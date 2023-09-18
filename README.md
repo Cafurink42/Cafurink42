@@ -3,10 +3,10 @@
 <div>
   
   <h1 align="center">
-    Daniel Guth
+  Carlos Daniel Guth
   </h1>
   
-  <p align="center" style  = "border-radius:20%">
+  <p align="center">
       <img width="10%" align="center" valign="middle" src="https://img-c.udemycdn.com/user/200_H/84747742_4c95.jpg" target="_blank"/>
   </p>
 </div>
@@ -14,7 +14,6 @@
 <div align="center">
   <a href="https://github.com/Cafurink42">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cafurink42&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false&show_owner=true"/>
-    <img height="150em" src=""/>
   </a>
 </div>
 
