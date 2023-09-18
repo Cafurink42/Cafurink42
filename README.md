@@ -11,7 +11,7 @@
            width="10%" 
            align="center" 
            valign="middle" 
-           src="https://avatars.githubusercontent.com/u/96921550?v=4" 
+           src="https://img-c.udemycdn.com/user/200_H/84747742_4c95.jpg" 
            target="_blank" 
       />
     </a>  
