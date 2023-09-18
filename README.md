@@ -20,8 +20,8 @@
 
 <div align="center">
   <a href="https://github.com/Cafurink42">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cafurink42&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cafurink42&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false&show_owner=true"/>
+    <img height="150em" src=""/>
   </a>
 </div>
 
