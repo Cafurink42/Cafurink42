@@ -7,26 +7,21 @@
   </h1>
   
   <p align="center">
-    <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
       <img
            width="10%" 
            align="center" 
            valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social" 
+           src="https://avatars.githubusercontent.com/u/96921550?v=4" 
            target="_blank" 
       />
     </a>  
   </p>
-  
-
-
-  
 </div>
 
 <div align="center">
   <a href="https://github.com/duribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanielGuth&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGuth&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
