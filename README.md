@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-      <img width="10%" align="center" valign="middle" src="https://img-c.udemycdn.com/user/200_H/84747742_4c95.jpg" target="_blank"/>
+      <img width="10%" align="center" valign="middle" src="https://avatars.githubusercontent.com/u/96921550?s=400&u=8f6586097e440229e0ca6ef4ed9a74141137a5e8&v=4" target="_blank"/>
   </p>
 </div>
 
