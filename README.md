@@ -6,16 +6,8 @@
     Daniel Guth
   </h1>
   
-  <p align="center">
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://img-c.udemycdn.com/user/200_H/84747742_4c95.jpg" 
-           target="_blank" 
-           style = "border-radius:10px";
-      />
-    </a>  
+  <p align="center" style  = "border-radius:20">
+      <img width="10%" align="center" valign="middle" src="https://img-c.udemycdn.com/user/200_H/84747742_4c95.jpg" target="_blank"/>
   </p>
 </div>
 
