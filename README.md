@@ -33,6 +33,6 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/Cafurink42/danielbped/commit/b5c5149089573e395047be07cde8b3e307499f4c/github-contribution-grid-snake.sv)
+  ![Snake animation](https://github.com/Cafurink42/danielbped/commit/b5c5149089573e395047be07cde8b3e307499f4c/github-contribution-grid-snake.svg)
   
 </div>
