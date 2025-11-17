@@ -80,7 +80,18 @@ GET    /users/user
   </code></pre>
 
   <h2>📸 Demonstração</h2>
-  <img class="demo" src="https://github.com/user-attachments/assets/5f525a57-752b-4733-a312-67e7e688c84b"/> 
+  <h3>Tela de boas vindas</h3>
+  <img class="demo" width="765" height="527" alt="image" src="https://github.com/user-attachments/assets/5f525a57-752b-4733-a312-67e7e688c84b"/> 
+  <h3> Tela de criação de usuários</h3>
+  <img class= "demo" width="765" height="527" alt="image" src="https://github.com/user-attachments/assets/9fe87ec0-53c8-4d57-9d0b-772a622985f6" />
+  <h3>Menu da aplicação</h3>
+  <img width="770" height="243" alt="image" src="https://github.com/user-attachments/assets/63a2549f-81b1-4c56-9154-546557676e2c" />
+  <h3>Lista de usuários</h3>
+  <img width="769" height="509" alt="image" src="https://github.com/user-attachments/assets/e86b8459-5f52-4537-a50c-b1fcd59b403d" />
+  <h3>Tela de update</h3>
+  <img width="748" height="421" alt="image" src="https://github.com/user-attachments/assets/3b2a8a8d-598d-4713-82d5-5261ef968e84" />
+  <h3>Delete user</h3>
+  <img width="733" height="479" alt="image" src="https://github.com/user-attachments/assets/51a996cb-099a-4c8d-8ab3-ba74de45306b" />
 
   <h2>⚙️ Configurações opcionais</h2>
   <ul>
