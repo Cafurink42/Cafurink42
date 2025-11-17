@@ -80,8 +80,7 @@ GET    /users/user
   </code></pre>
 
   <h2>📸 Demonstração</h2>
-  <img class="demo" src="<img width="730" height="1049" alt="image" src="https://github.com/user-attachments/assets/5f525a57-752b-4733-a312-67e7e688c84b" />
-" alt="demo">
+  <img class="demo" src="<img width="730" height="1049" alt="image" src="https://github.com/user-attachments/assets/5f525a57-752b-4733-a312-67e7e688c84b" alt="demo"/> 
 
   <h2>⚙️ Configurações opcionais</h2>
   <ul>
