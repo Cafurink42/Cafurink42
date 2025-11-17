@@ -2,18 +2,15 @@
 
 <div class="container">
 
-  <h1>📌 Nome do Projeto (Laravel)</h1>
-  <p>Descrição breve do projeto. Exemplo: “Sistema de gerenciamento e impressão de etiquetas usando Laravel e MySQL”.</p>
+  <h1>📌ListUsers</h1>
+  <p>Sistema teste e de estudos CRUD desenvolvido com o Framework Laravel.</p>
 
   <hr>
 
   <h2>🚀 Funcionalidades</h2>
   <ul>
     <li>Cadastro de usuários</li>
-    <li>CRUD de produtos</li>
-    <li>Geração de etiquetas</li>
-    <li>Integração com impressora Zebra</li>
-    <li>Exportação CSV/Excel</li>
+    <li>CRUD de usuários</li>
   </ul>
 
   <h2>🛠️ Tecnologias utilizadas</h2>
@@ -22,8 +19,7 @@
     <li>PHP 8.1+</li>
     <li>Composer</li>
     <li>MySQL ou PostgreSQL</li>
-    <li>Blade Templates</li>
-    <li>Tailwind / Bootstrap (opcional)</li>
+    <li>Bootstrap</li>
   </ul>
 
   <h2>📂 Estrutura do Projeto</h2>
@@ -41,7 +37,7 @@
 composer.json
   </code></pre>
 
-  <h2>▶️ Como instalar e rodar</h2>
+  <h2>▶️ Como fazer para instalar e rodar</h2>
 
   <p><strong>1. Clonar repositório</strong></p>
   <pre><code>git clone https://github.com/seuusuario/seu-projeto.git
@@ -57,12 +53,14 @@ npm run build</code></pre>
 php artisan key:generate</code></pre>
 
   <p><strong>4. Configurar banco de dados no .env</strong></p>
-  <pre><code>DB_CONNECTION=mysql
+  <pre><code>
+DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=nome_do_banco
-DB_USERNAME=usuario
-DB_PASSWORD=senha</code></pre>
+DB_DATABASE=cadastro_db
+DB_USERNAME=root
+DB_PASSWORD=
+
 
   <p><strong>5. Rodar as migrations</strong></p>
   <pre><code>php artisan migrate</code></pre>
@@ -75,10 +73,10 @@ DB_PASSWORD=senha</code></pre>
 
   <h2>📦 Endpoints principais</h2>
   <pre><code>GET    /produtos
-POST   /produtos
-PUT    /produtos/{id}
-DELETE /produtos/{id}
-GET    /etiquetas/gerar
+POST   /userd
+PUT    /users/{id}
+DELETE /users/{id}
+GET    /users/user
   </code></pre>
 
   <h2>📸 Demonstração</h2>
@@ -98,12 +96,9 @@ GET    /etiquetas/gerar
   4. Push<br>
   5. Abra um Pull Request</p>
 
-  <h2>🧾 Licença</h2>
-  <p>MIT – sinta-se livre para usar como quiser.</p>
-
   <h2>👤 Autor</h2>
   <p><strong>Carlos Daniel Guth</strong><br>
-  GitHub: <a href="https://github.com/seuusuario">github.com/seuusuario</a></p>
+  GitHub: <a href="https://github.com/Cafurink42?tab=repositories">github.com/Cafurink42</a></p>
 
 </div>
 
