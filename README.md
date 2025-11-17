@@ -1,36 +1,168 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Nome do Projeto - Laravel</title>
 
-<div>
-  <h1 align="center">
-  Carlos Daniel Guth
-  </h1>
-  
-  <p align="center">
-      <img width="10%" align="center" valign="middle" src="https://avatars.githubusercontent.com/u/96921550?s=400&u=8f6586097e440229e0ca6ef4ed9a74141137a5e8&v=4" target="_blank"/>
-  </p>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: rgba(255,255,255,0.04);
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 0 25px rgba(0,0,0,0.4);
+    }
+    h1, h2 {
+      color: #38bdf8;
+      margin-bottom: 12px;
+    }
+    p {
+      margin-bottom: 12px;
+    }
+    pre {
+      background: #1e293b;
+      padding: 14px;
+      border-radius: 8px;
+      overflow: auto;
+      color: #bae6fd;
+    }
+    code {
+      font-family: Consolas, monospace;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    img.demo {
+      width: 100%;
+      border-radius: 8px;
+      margin-bottom: 10px;
+      border: 1px solid rgba(255,255,255,0.15);
+    }
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+    }
+  </style>
+
+</head>
+<body>
+
+<div class="container">
+
+  <h1>📌 Nome do Projeto (Laravel)</h1>
+  <p>Descrição breve do projeto. Exemplo: “Sistema de gerenciamento e impressão de etiquetas usando Laravel e MySQL”.</p>
+
+  <hr>
+
+  <h2>🚀 Funcionalidades</h2>
+  <ul>
+    <li>Cadastro de usuários</li>
+    <li>CRUD de produtos</li>
+    <li>Geração de etiquetas</li>
+    <li>Integração com impressora Zebra</li>
+    <li>Exportação CSV/Excel</li>
+  </ul>
+
+  <h2>🛠️ Tecnologias utilizadas</h2>
+  <ul>
+    <li>Laravel 10+</li>
+    <li>PHP 8.1+</li>
+    <li>Composer</li>
+    <li>MySQL ou PostgreSQL</li>
+    <li>Blade Templates</li>
+    <li>Tailwind / Bootstrap (opcional)</li>
+  </ul>
+
+  <h2>📂 Estrutura do Projeto</h2>
+  <pre><code>
+/app
+/bootstrap
+/config
+/database
+/public
+/resources
+/routes
+  └── web.php
+/storage
+/tests
+composer.json
+  </code></pre>
+
+  <h2>▶️ Como instalar e rodar</h2>
+
+  <p><strong>1. Clonar repositório</strong></p>
+  <pre><code>git clone https://github.com/seuusuario/seu-projeto.git
+cd seu-projeto</code></pre>
+
+  <p><strong>2. Instalar dependências</strong></p>
+  <pre><code>composer install
+npm install
+npm run build</code></pre>
+
+  <p><strong>3. Configurar o arquivo .env</strong></p>
+  <pre><code>cp .env.example .env
+php artisan key:generate</code></pre>
+
+  <p><strong>4. Configurar banco de dados no .env</strong></p>
+  <pre><code>DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=nome_do_banco
+DB_USERNAME=usuario
+DB_PASSWORD=senha</code></pre>
+
+  <p><strong>5. Rodar as migrations</strong></p>
+  <pre><code>php artisan migrate</code></pre>
+
+  <p><strong>6. Rodar o servidor</strong></p>
+  <pre><code>php artisan serve</code></pre>
+
+  <p><strong>7. Abrir a aplicação:</strong>  
+  <code>http://localhost:8000</code></p>
+
+  <h2>📦 Endpoints principais</h2>
+  <pre><code>GET    /produtos
+POST   /produtos
+PUT    /produtos/{id}
+DELETE /produtos/{id}
+GET    /etiquetas/gerar
+  </code></pre>
+
+  <h2>📸 Demonstração</h2>
+  <img class="demo" src="https://via.placeholder.com/800x350?text=Print+da+Aplicacao" alt="demo">
+
+  <h2>⚙️ Configurações opcionais</h2>
+  <ul>
+    <li>Configuração de permissões no <code>storage/</code> e <code>bootstrap/cache</code></li>
+    <li>Configuração de drivers da Zebra (para impressão local)</li>
+    <li>Fila de jobs com <code>php artisan queue:work</code> (se usar filas)</li>
+  </ul>
+
+  <h2>🤝 Contribuição</h2>
+  <p>1. Faça um fork<br>
+  2. Crie uma branch (<code>git checkout -b feature/minha-feature</code>)<br>
+  3. Commit suas alterações<br>
+  4. Push<br>
+  5. Abra um Pull Request</p>
+
+  <h2>🧾 Licença</h2>
+  <p>MIT – sinta-se livre para usar como quiser.</p>
+
+  <h2>👤 Autor</h2>
+  <p><strong>Carlos Daniel Guth</strong><br>
+  GitHub: <a href="https://github.com/seuusuario">github.com/seuusuario</a></p>
+
 </div>
 
-<div align="center">
-  <a href="https://github.com/Cafurink42">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cafurink42&count_private=true&include_all_commits=true&show_icons=true&theme=white&hide_border=false&show_owner=true"/>
-  </a>
-</div>
-
-<div align="center" valign="top"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="python" height="30" width="40" src  = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="php" height="30" width="40" src  = "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-
-
-</div><br>
-
-
-<div align="center">
-
- ![Snake animation](https://github.com/danielbped/danielbped/blob/output//github-contribution-grid-snake.svg)  
-</div>
+</body>
+</html>
